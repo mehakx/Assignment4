@@ -1,0 +1,24 @@
+{
+  "name": "websocket-collaborative-canvas",
+  "version": "1.0.0",
+  "description": "A real-time collaborative drawing application using WebSockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "websocket",
+    "socket.io",
+    "collaborative",
+    "canvas",
+    "real-time",
+    "drawing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
